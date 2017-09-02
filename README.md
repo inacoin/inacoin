@@ -8,17 +8,15 @@ InaCoin can be bought and sold both online and offline. However, the most popula
 
 Maximum 27 million InaCoin will ever exist to the community.
 
-- Coin Algorithm      :
-- Coin Abbreviation   :  
-- Coin base maturity  :
-- Total PoW block     :
-- PoW block reward    : 
-- Block Spacing       :
-- Minimum Stake Age   :
-- Maximum Stake Age   :
+- Coin Algorithm      : X11 (PoW/PoS)
+- Coin Abbreviation   : INC 
+- Coin base maturity  : 50
+- Total PoW block     : 260000
+- PoW block reward    : 10 INC
+- Block Spacing       : 2 Minutes
+- Minimum Stake Age   : 15 Days
+- Maximum Stake Age   : 90 Days
 
 # How are they used
 
 InaCoin are used by InaCoin community members for inacoin services and to store and invest the wealth in a non-government controlled currency. The InaCoin coins will also be used as payment system on number of InaCoin partner websites.
-
-# How Are They Produced ?
