@@ -8,6 +8,17 @@ InaCoin can be bought and sold both online and offline. However, the most popula
 
 Maximum 27 million InaCoin will ever exist to the community.
 
+- Coin Algorithm      :
+- Coin Abbreviation   :  
+- Coin base maturity  :
+- Total PoW block     :
+- PoW block reward    : 
+- Block Spacing       :
+- Minimum Stake Age   :
+- Maximum Stake Age   :
+
 # How are they used
 
 InaCoin are used by InaCoin community members for inacoin services and to store and invest the wealth in a non-government controlled currency. The InaCoin coins will also be used as payment system on number of InaCoin partner websites.
+
+# How Are They Produced ?
